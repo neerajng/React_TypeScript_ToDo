@@ -1,4 +1,6 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite + ToDo App
+
+Live link : https://todo-react-typescript-xi.vercel.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
